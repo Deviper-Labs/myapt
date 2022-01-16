@@ -1,0 +1,11 @@
+Package: hello
+Version: 1.0
+Architecture: any
+Maintainer: MOStudios-org <mohammad.omar.sobman@gmail.com>
+Filename: debs/hello_1.0-1_any.deb
+Size: 756
+MD5sum: b59628032d4a9cd3abb92effcd18f577
+SHA1: 7bf706cd6b337317bd658f8f08607723340e39e9
+SHA256: ac2c768cab424da4503e5fedc4c9db54f9510f66d9643a12816e6a149e4cedfc
+Description: A program that greets you.
+
